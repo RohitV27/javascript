@@ -1,0 +1,21 @@
+console.log("my name is ankit")
+console.log('my name is ankit')
+console.log(`my name is ankit`)
+console.log(typeof("awdiz"))
+console.log(typeof('awdiz'))
+console.log(typeof(`awdiz`))
+console.log(typeof(`987654`))
+console.log(typeof("8765"))
+console.log(typeof ('8887766'))
+console.log(15 + 15)
+console.log("15" + "15")
+
+
+console.log(2)
+console.log(29876)
+console.log(29876789)
+console.log(typeof(98765))
+console.log(typeof('98765'))
+
+console.log(1+1)
+console.log('1'+"1")
