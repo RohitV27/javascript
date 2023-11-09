@@ -34,9 +34,6 @@ for(var i = 30; i > 10; i-=5){
 
 var students = ["Virat", "Rohit", "Rahul", "Surya"];
 
-// // console.log(students[2])
-// // console.log(students[0])
-
 for (var i = 0; i < students.length; i++){
     console.log(students[i], i) // 0 1 2 3 
 }
